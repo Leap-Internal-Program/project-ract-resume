@@ -64,3 +64,5 @@ Review W3 Schools and other sites to remind yourself of many CSS properties.  Be
 #### *Hover and active selectors* **NEW**
 - *W3 Schools* - [CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.asp)
 - *W3 Schools* - [CSS :active Selector](https://www.w3schools.com/cssref/sel_active.asp)
+
+After achieving a solution through JavaScript, it's easy to see coding JavaScript as the solution to every problem. If there is a solution problem solved by only using CSS (like changing the color of text when a user puts it's mouse pointer over it through the the :hover selector), use only css. 
