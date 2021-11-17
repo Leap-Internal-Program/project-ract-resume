@@ -1,7 +1,7 @@
 #  Project: React Resume
 
 ## Summary
-Create a single page personale resume site using React. *This may replace any previous resume site you have built!  
+Create a single page personal resume site using React. *(This may replace any previous resume site you have build).* 
 
 ## Estimated time
 The estimated time is twelve hours.
@@ -15,28 +15,38 @@ The estimated time is twelve hours.
 - *w3schools* - [W3 Schools HTML](https://www.w3schools.com/html/default.asp)
 - Animate.css - [Animate.css](https://animate.style/) 
 
-## Projects
-You have freedom to drive the project and make it your own and you are not limited to the project objectives. Use information from your LinkedIn page and previous resume to build a resume site using React. The purpose of this project is to explore using CSS with React. Focus more on exploring rather than perfect resume site.
+## Project Objectives
+You have freedom to drive the project and make it your own. You are not limited to the project objectives. Use information from your LinkedIn page and previous resume to build a resume site using React. The purpose of this project is to explore using CSS with React. Focus more on exploring React and CSS rather than perfecting a professional resume site.  *You may always return to this project later.*
 
 | Project objectives |
 | :-- |
 | Demonstrate building a new React application  |
 | Demonstrate encorporating CSS within React |
 | Include at least one animation |
-| Use the hover selector |
+| Use the css :hover selector |
 
 Your page does not need to be hosted on GitHub.
 
-### Recommended starting point
-> *Weeks of coding saves hours of planning*
+## Before you start
 
-Begin by creating a 'mock up' on scratch piece of paper.  Indentify the 'high level' components you may want on your page.  Use information from your LinkedIn page and previous resume.
+### Mock up your design
+> *Weeks of coding saves hours of planning.*
+
+Begin by creating a 'mock up' on scratch piece of paper.  Indentify the 'high level' components you may want on your page.  Use information from your LinkedIn page and previous resume.  You should have an idea of the core componenets you will need before you begin writing any code. 
+
+Example of components
+- Background component
+- Layout Component
+  - Title Component
+  - Picture Component
+  - Skills Component
+  - Summary Component
+  - Experience Component
 
 ![Picture of mock up](./img/mockup.png)
 
-
 ### Review CSS
-Scan through the W3 Schools and other sites to remind yourself of css properties.  Some of the best examples are below.
+Review W3 Schools and other sites to remind yourself of many CSS properties.  Below are several important CSS concepts.
 
 #### *Making a CSS Grid Layout*
 - *W3 Schools* [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
