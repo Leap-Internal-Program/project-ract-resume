@@ -1,7 +1,7 @@
 #  Project: React Resume
 
 ## Summary
-Create a single page personal resume site using React. *(This may replace any previous resume site you have build).* 
+Create a single page personal resume site using React. *(This may replace any previous resume site you have built).* 
 
 ## Estimated time
 The estimated time is twelve hours.
@@ -21,7 +21,7 @@ You have freedom to drive the project and make it your own. You are not limited 
 | Project objectives |
 | :-- |
 | Demonstrate building a new React application  |
-| Demonstrate encorporating CSS within React |
+| Demonstrate incorporating CSS within React |
 | Include at least one animation |
 | Use the css :hover selector |
 
@@ -32,7 +32,7 @@ Your page does not need to be hosted on GitHub.
 ### Mock up your design
 > *Weeks of coding saves hours of planning.*
 
-Begin by creating a 'mock up' on scratch piece of paper.  Indentify the 'high level' components you may want on your page.  Use information from your LinkedIn page and previous resume.  You should have an idea of the core componenets you will need before you begin writing any code. 
+Begin by creating a 'mock up' on scratch piece of paper.  Identify the 'high level' components you may want on your page.  Use information from your LinkedIn page and previous resume.  You should have an idea of  components you will need before you begin writing any code. 
 
 Example of components
 - Background component
