@@ -54,4 +54,3 @@ Scan through the W3 Schools and other sites to remind yourself of css properties
 #### *Hover and active selectors* **NEW**
 - *W3 Schools* - [CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.asp)
 - *W3 Schools* - [CSS :active Selector](https://www.w3schools.com/cssref/sel_active.asp)
-
